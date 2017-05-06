@@ -1,2 +1,2 @@
-# iLugBot
-c++/Qt bot for Isfahan Lug
+# TelegramBot
+c++/Qt Telegram bot for Isfahan Lug
